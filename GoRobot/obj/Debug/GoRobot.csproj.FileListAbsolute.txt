@@ -1,0 +1,9 @@
+E:\Projetos\GoRobot\GoRobot\bin\Debug\GoRobot.exe.config
+E:\Projetos\GoRobot\GoRobot\bin\Debug\GoRobot.exe
+E:\Projetos\GoRobot\GoRobot\bin\Debug\GoRobot.pdb
+E:\Projetos\GoRobot\GoRobot\bin\Debug\HtmlAgilityPack.dll
+E:\Projetos\GoRobot\GoRobot\bin\Debug\HtmlAgilityPack.pdb
+E:\Projetos\GoRobot\GoRobot\bin\Debug\HtmlAgilityPack.xml
+E:\Projetos\GoRobot\GoRobot\obj\Debug\GoRobot.csprojResolveAssemblyReference.cache
+E:\Projetos\GoRobot\GoRobot\obj\Debug\GoRobot.exe
+E:\Projetos\GoRobot\GoRobot\obj\Debug\GoRobot.pdb
